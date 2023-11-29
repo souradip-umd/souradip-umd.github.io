@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electrical & Control Engineering, Jadavpur University, 2010-14 (honors graduate)
-* M.S. in Statistical Machine Learning, Indian Statistical Institute, 2016-18 (summa cum laude)
-* Ph.D in Foundations of Reinforcement Learning, GitHub University, 2018 (expected)
+* B.Tech. in Electrical & Control Engineering, Jadavpur University, 2010-14 (*honors graduate*)
+* M.S. in Statistical Machine Learning, Indian Statistical Institute, 2016-18 (*summa cum laude*)
+* Ph.D in Foundations of Reward design in Reinforcement Learning, University of Maryland, 2026 (expected)
 
 Work experience
 ======
