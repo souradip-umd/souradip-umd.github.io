@@ -85,10 +85,10 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Maryland, College Park (USA)"
   employer         : "University of Maryland, College Park"
-  dblp             : "https://dblp.org/pid/264/5758.html"
+  dblp             : 
   googlescholar    : "https://scholar.google.co.in/citations?user=pvETm1wAAAAJ&hl=en"
   email            :
-  researchgate     :  ""
+  researchgate     :  "Souradip-Chakraborty"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/souradip-chakraborty"
+  github           : "souradip-chakraborty"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/SOURADIPCHAKR18"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
