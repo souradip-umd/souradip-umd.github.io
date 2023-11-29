@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electrical & Control Engineering, Jadavpur University, 2010-14 (honors graduate)
+* M.S. in Statistical Machine Learning, Indian Statistical Institute, 2016-18 (summa cum laude)
+* Ph.D in Foundations of Reinforcement Learning, GitHub University, 2018 (expected)
 
 Work experience
 ======
