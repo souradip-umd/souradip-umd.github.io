@@ -24,9 +24,14 @@ with the [AI4ALL](https://inclusion.cs.umd.edu/outreach/aisummer) and [Maryland 
 
 Selected Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. *Souradip Chakraborty*, Amrit Singh Bedi, Sicheng Zhu, Bang An, Dinesh Manocha, Furong Huang [On the Possibilities of AI-Generated Text Detection](https://arxiv.org/abs/2304.04736)
+1. *Souradip Chakraborty*, Kasun Weerakoon, Prithvi Poddar, Pratap Tokekar, Amrit Singh Bedi, Dinesh Manocha [RE-MOVE: An Adaptive Policy Design Approach for Dynamic Environments via Language-Based Feedback](https://arxiv.org/abs/2303.07622)
+1. Xiangyu Liu, *Souradip Chakraborty*, Yanchao Sun, Furong Huang [Rethinking Adversarial Policies: A Generalized Attack Formulation and Provable Defense in Multi-Agent RL](https://arxiv.org/abs/2305.17342) (**Outstanding Paper Award**)
+1. *Souradip Chakraborty*, Amrit Singh Bedi, Alec Koppel, Mengdi Wang, Furong Huang, Dinesh Manocha [STEERING: Stein Information Directed Exploration for Model-Based Reinforcement Learning](https://arxiv.org/pdf/2301.12038.pdf), [ICML 2023](https://icml.cc/Conferences/2023/Dates)
+1. *Souradip Chakraborty*, Amrit Singh Bedi, Alec Koppel, Brian M. Sadler, Furong Huang, Pratap Tokekar, Dinesh Manocha Posterior Coreset Construction with Kernelized Stein Discrepancy for Model-Based Reinforcement Learning, [Oral, AAAI 2023](https://aaai-23.aaai.org/)
+1. Souradip Chakraborty, Amrit Singh Bedi, Alec Koppel, Pratap Tokekar, Dinesh Manocha, [Dealing with Sparse Rewards in Continuous Control Robotics via Heavy-Tailed Policy Optimization](https://arxiv.org/abs/2206.05652), [ICRA 2023](https://www.icra2023.org/)
+1. Souradip Chakraborty, Kasun Weerakoon, Nare Karapetyan, Adarsh Jagan Sathyamoorthy, Amrit Singh Bedi, Dinesh Manocha [HTRON: Efficient Outdoor Navigation with Sparse Rewards via Heavy Tailed Adaptive Reinforce Algorithm](https://arxiv.org/abs/2207.03694), [CoRL 2022](https://corl2022.org/) 
+ 
 
 Awards & Recognition
 ======
