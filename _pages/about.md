@@ -17,6 +17,7 @@ Recent News
 ======
 1. Our latest research [**PARL**](https://arxiv.org/abs/2308.02585) characterized a major gap in the current Alignment framework with RLHF by characterizing the distribution shift and received significant attention [Reference](https://twitter.com/SOURADIPCHAKR18/status/1714633066264547591)
 1. Our timely survey provides crucial insights into [AI-generated text recognition](https://arxiv.org/pdf/2310.15264.pdf) - Current state and Open problems [Media Coverage](https://twitter.com/parameterlab/status/1724126008045949257)
+1. Excited to deliver a Tutorial on [Reward Design and Reinforcement Learning from Human Feedback](https://www.youtube.com/watch?v=ayOQPIVmtB4&t=1930s) at [PyImageSearch](https://pyimagesearch.com/), [Kaggle](https://www.kaggle.com/)
 1. Glad to receive **Top Reviewer** Award at [*NeurIPS2023*](https://nips.cc/Conferences/2023/ProgramCommittee) (2nd time in a row). 
 1. Our latest research on the *Possibilities of AI Text Detection* got significant attention in the community and media coverage [Reference](https://twitter.com/furongh/status/1645780628724502528) [Media Coverage](https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable)
 1. Served as one of the student organizers of [summer AI camps at UMD Fall'23](https://inclusion.cs.umd.edu/outreach/aisummer) as a part of the Iribe Initiative for Inclusion and Diversity
