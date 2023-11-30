@@ -30,7 +30,8 @@ Selected Publications
 1. *Souradip Chakraborty*, Amrit Singh Bedi, Alec Koppel, Mengdi Wang, Furong Huang, Dinesh Manocha [STEERING: Stein Information Directed Exploration for Model-Based Reinforcement Learning](https://arxiv.org/pdf/2301.12038.pdf), [ICML 2023](https://icml.cc/Conferences/2023/Dates)
 1. *Souradip Chakraborty*, Amrit Singh Bedi, Alec Koppel, Brian M. Sadler, Furong Huang, Pratap Tokekar, Dinesh Manocha Posterior Coreset Construction with Kernelized Stein Discrepancy for Model-Based Reinforcement Learning, [Oral, AAAI 2023](https://aaai-23.aaai.org/)
 1. Souradip Chakraborty, Amrit Singh Bedi, Alec Koppel, Pratap Tokekar, Dinesh Manocha, [Dealing with Sparse Rewards in Continuous Control Robotics via Heavy-Tailed Policy Optimization](https://arxiv.org/abs/2206.05652), [ICRA 2023](https://www.icra2023.org/)
-1. Souradip Chakraborty, Kasun Weerakoon, Nare Karapetyan, Adarsh Jagan Sathyamoorthy, Amrit Singh Bedi, Dinesh Manocha [HTRON: Efficient Outdoor Navigation with Sparse Rewards via Heavy Tailed Adaptive Reinforce Algorithm](https://arxiv.org/abs/2207.03694), [CoRL 2022](https://corl2022.org/) 
+1. Souradip Chakraborty, Kasun Weerakoon, Nare Karapetyan, Adarsh Jagan Sathyamoorthy, Amrit Singh Bedi, Dinesh Manocha [HTRON: Efficient Outdoor Navigation with Sparse Rewards via Heavy Tailed Adaptive Reinforce Algorithm](https://arxiv.org/abs/2207.03694), [CoRL 2022](https://corl2022.org/)
+1. Amrit Singh Bedi, *Souradip Chakraborty*, Anjaly Parayil, Brian Sadler, Pratap Tokekar, Alec Koppel [On the Hidden Biases of Policy Mirror Ascent in Continuous Action Spaces](https://arxiv.org/abs/2201.12332), [ICML 2022 Spotlight](https://icml.cc/Conferences/2022)
  
 
 Awards & Recognition
