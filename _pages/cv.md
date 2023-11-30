@@ -13,28 +13,28 @@ Education
 ======
 * B.Tech. in Electrical & Control Engineering, Jadavpur University, 2010-14 (*honors graduate*)
 * M.S. in Statistical Machine Learning, Indian Statistical Institute, 2016-18 (*summa cum laude*)
-* Ph.D in Foundations of Reward design in Reinforcement Learning, University of Maryland, 2026 (expected)
+* Ph.D in Foundations of Reward Design in Reinforcement Learning, University of Maryland, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-21: Research Scientist, Machine Learning @Walmart Labs
+  * Statistical Machine Learning - Deep Representation Learning for enhancing the contextual recommendation system using multi-modal textual and visual information (7 US Patents, ICPR'2019, ICDM'2019, Neurips'2019 Workshops)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-21: Google Developers Expert, Machine Learning
+  * BioMedical NLP Research - BioMedBERT a resource for biomedical researchers, doctors, and virologists, to augment their ability to sift through biomedical knowledge (COLING'2020)
+
+* 2014-16: Research Engineer, Amec Foster Wheeler
+  * Control and Statistics -  Multivariate Statistical Quality Control in the Oil and Gas field
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#* Sub-skill 2.1
+  #* Sub-skill 2.2
+  #* Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
