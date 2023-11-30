@@ -15,10 +15,10 @@ My latest research focuses on designing a reliable and unified framework for RLH
 
 Recent News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Our timely survey provides crucial insights into [AI-generated text recognition](https://arxiv.org/pdf/2310.15264.pdf) - Current state and Open problems. 
+1. Characterized a major gap in Alignment with RLHF in our latest research work [**PARL**](https://arxiv.org/abs/2308.02585)
+1. Our timely survey provides crucial insights into [AI-generated text recognition](https://arxiv.org/pdf/2310.15264.pdf) - Current state and Open problems [Media Coverage](https://twitter.com/parameterlab/status/1724126008045949257)
 1. Glad to receive *TopReviewer* Award at [*NeurIPS2023*](https://nips.cc/Conferences/2023/ProgramCommittee) (2nd time in a row). 
-1. Our latest research on the Possibilities of AI Text Detection got significant attention in the community and media coverage [Ref](https://twitter.com/furongh/status/1645780628724502528)
+1. Our latest research on the Possibilities of AI Text Detection got significant attention in the community and media coverage [Ref](https://twitter.com/furongh/status/1645780628724502528) [Media Coverage](https://cmns.umd.edu/news-events/news/ai-generated-content-actually-detectable)
 1. Served as one of the student organizers of summer AI camps at UMD Fall'23 as a part of the Iribe Initiative for Inclusion and Diversity
 with the AI4ALL organization as well as Maryland Center for Women in Computing.
 
