@@ -9,9 +9,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -19,5 +16,3 @@ main:
   - title: "CV"
     url: /files/Resume_Souradip_Chakraborty_.pdf
     
-  - title: "Guide"
-    url: /markdown/
