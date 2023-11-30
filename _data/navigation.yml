@@ -8,10 +8,10 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://souradip-chakraborty.github.io/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://medium.com/@souradip_chak
     
   - title: "CV"
     url: /files/Resume_Souradip_Chakraborty_.pdf
